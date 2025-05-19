@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8ffbf215-5db6-4301-80c5-efa8e627d8e5" alt="![Uploading DarkTeamLogo.jpg…]()
-DarkTeam Logo" width="180"/>
+  <img src="./DarkTeamLogo.jpg" alt="DarkTeam Logo" width="180"/>
 </p>
 
 <h1 align="center">DarkTeam 🇦🇪</h1>
